@@ -53,4 +53,4 @@ dkms.conf
 
 # コンパイル後
 9cc
-*.s
+tmp*
